@@ -1,0 +1,8 @@
+.On {
+	background-color: green;
+	transform: translateX(50px);
+}
+.Off {
+	background-color: yellow;
+	transform: translateX;
+}
